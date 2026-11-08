@@ -1,0 +1,21 @@
+node_modules/
+.DS_Store
+*.log
+*.tgz
+
+# 逆向工作产物：客户端解包、协议推导过程。只引用不加载，公开仓库不该带。
+reverse/
+
+# 工作过程文档：模板规范、内部检查清单。留在磁盘，不进仓库。
+AGENTS.md
+CHECKLIST.md
+CONTRIBUTING.md
+GUIDE.md
+HOOKS.md
+MULTI-PROVIDER.md
+OFFICIAL-SOURCES.md
+README-TEMPLATE.md
+SCORING.md
+UPDATING.md
+extract-contract.py
+examples/
