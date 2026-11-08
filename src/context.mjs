@@ -1,6 +1,6 @@
 // 共享上下文 —— 所有钩子都读这一份
 //
-// 这个插件只服务一个站点：腾讯 Marvis（应用宝 AI 助手）。
+// 这个插件只服务一个站点：Marvis（应用宝 AI 助手）。
 // 上游只有一个：https://yybadaccess.3g.qq.com
 //   推理   /v1/chat/completions   （OpenAI 兼容，不需要 UAL 签名）
 //   业务   /v3/*                  （钱包、用户信息；需要 md5 签名）
@@ -14,7 +14,7 @@
 export const PROVIDER = "marvis"
 
 /** 卡片上显示的供应商名：必须 <中文> <English> */
-export const PROVIDER_NAME = "腾讯 Marvis TENCENT"
+export const PROVIDER_NAME = "Marvis MARVIS"
 
 /** 业务接口基址（/v3/*：用户信息、钱包） */
 export const BASE = "https://yybadaccess.3g.qq.com"

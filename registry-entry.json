@@ -1,11 +1,11 @@
 {
   "package": "magpie-marvis",
-  "name": "腾讯 Marvis TENCENT",
+  "name": "Marvis MARVIS",
   "providers": [
     "marvis"
   ],
   "summary": {
-    "en": "The DeepSeek V4 Pro, Kimi K2.5, Claude Opus/Sonnet 4.6, GPT-5.4 and Hunyuan models behind Tencent Marvis, called straight through its model gateway with your QQ / WeChat sign-in — no API key to paste.",
-    "zh": "把腾讯 Marvis 背后的 DeepSeek V4 Pro、Kimi K2.5、Claude Opus/Sonnet 4.6、GPT-5.4、混元接进 magpie，用你的 QQ / 微信登录态直连它的模型网关，不用粘贴 key。"
+    "en": "The DeepSeek V4 Pro, Kimi K2.5, Claude Opus/Sonnet 4.6, GPT-5.4 and Hunyuan models behind Marvis (YingYongBao AI assistant), called straight through its model gateway with your QQ / WeChat sign-in — no API key to paste. Unofficial.",
+    "zh": "把 Marvis（应用宝 AI 助手）背后的 DeepSeek V4 Pro、Kimi K2.5、Claude Opus/Sonnet 4.6、GPT-5.4、混元接进 magpie，用你的 QQ / 微信登录态直连它的模型网关，不用粘贴 key。非官方。"
   }
 }

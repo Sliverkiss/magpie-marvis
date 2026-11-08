@@ -34,7 +34,7 @@ test("入口只导出一个函数（插件工厂）", () => {
 test("_internal 是对象，helper 不暴露成顶层函数导出", () => {
   assert.equal(typeof _internal, "object")
   assert.equal(_internal.PROVIDER, "marvis")
-  assert.equal(_internal.PROVIDER_NAME, "腾讯 Marvis TENCENT")
+  assert.equal(_internal.PROVIDER_NAME, "Marvis MARVIS")
   assert.equal(typeof _internal.staticModels, "function")
   assert.equal(typeof _internal.providerModels, "function")
   assert.equal(_internal.BASE_V1, "https://yybadaccess.3g.qq.com/v1")

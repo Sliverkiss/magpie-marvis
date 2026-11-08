@@ -1,7 +1,7 @@
 // Beacon SDK 封装 —— uskey 的本地签发（**best-effort**）
 //
 // ⚠ 这一层曾经是整个插件的**硬门槛**：模型网关要请求头 `Ual-Access-MarvisExt`
-//   里带一个 uskey，而 uskey 由腾讯的 Beacon SDK 本地生成。拿不到就 503 ——
+//   里带一个 uskey，而 uskey 由 Beacon SDK 本地生成。拿不到就 503 ——
 //   这是 0.2.16 以前**所有非 Windows 机器**（macOS / Linux）的 503 根因。
 //
 // ═══ 为什么现在不再硬依赖 ═══════════════════════════════════════════
