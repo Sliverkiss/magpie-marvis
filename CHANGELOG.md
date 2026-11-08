@@ -3,6 +3,13 @@
 > 每个版本一节，**一条一行**，说用户能感知的变化。
 > 格式与规矩见 [UPDATING.md](./UPDATING.md)。
 
+## 0.2.17 — 2026-11-08
+
+**发布渠道**
+
+- 仓库迁到 `Sliverkiss/magpie-marvis`：`magpie plugin add Sliverkiss/magpie-marvis` 即装
+- 修复随 0.2.16 一起实装（见上一节）
+
 ## 0.2.16 — 2026-11-08
 
 **修复（macOS / Linux 503 根治）**
