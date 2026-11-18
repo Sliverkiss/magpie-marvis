@@ -1,6 +1,6 @@
 {
   "name": "magpie-marvis",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "description": "magpie / OpenCode provider plugin for Marvis (应用宝 AI 助手): its DeepSeek V4 Pro, Kimi K2.5, Claude Opus/Sonnet 4.6, GPT-5.4 and Hunyuan models through the Marvis model gateway — no API key to paste, sign in with QQ or WeChat. Unofficial.",
   "type": "module",
   "main": "./index.mjs",
